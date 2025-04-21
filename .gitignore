@@ -1,0 +1,4 @@
+node_modules/
+api_requests.md
+.DS_Store
+*.log
