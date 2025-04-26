@@ -19,5 +19,6 @@
 
 ```bash
 npm install
-node capture.js https://www.aliwork.com/# ali-api-capture
+node capture.js https://www.aliwork.com/
+# ali-api-capture
 
